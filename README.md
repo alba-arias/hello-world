@@ -1,8 +1,8 @@
 # hello-world
 
-Un repositorio para empezar a usar Github y Github Actions con Java.
-MODIFICACIONES:
--Creación de archivo "modificacion.txt"
+Un repositorio para empezar a usar Github y Github Actions con Java.  
+MODIFICACIONES:  
+-Creación de archivo "modificacion.txt"  
 -Informe "PRÁCTICA1.pdf"
 
 ## ¿Como probar en el cloud?
